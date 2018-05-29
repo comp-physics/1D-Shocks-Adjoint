@@ -1,0 +1,8 @@
+100            !Nx
+3               !L
+1               !Tend
+0.001             !CFL
+0.002           !nu
+10              !outputfile
+Euler             !FT
+Euler           !BT

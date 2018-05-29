@@ -1,0 +1,23 @@
+ WENO reconstruction order =  5
+ Nx =          128
+ L =    1.5000000000000000     
+ Tend =   0.10000000000000001     
+ CFL =   0.45000000000000001     
+ beta =   0.90000000000000002     
+ amp =    3.0000000000000000     
+ Output frequency =          200
+ FT: Euler               
+ BT: Euler               
+ Forward Flux: GLF                 
+ Adjoint Flux: GLF                 
+ Adjoint enabled: True                
+ Viscosity enabled: True                
+ Viscosity enabled: True                
+ Initial condition:            3
+ SI: FV                  
+ Diagonalization enabled: False               
+ Sensitivity check enabled: False               
+ Number of time steps =     128 with dt =   0.000781250000
+ Forward simulation
+ Adjoint: Timestep =           0
+ Check sensitivity

@@ -1,0 +1,18 @@
+64000             !Nx
+1.5             !L
+0.1             !Tend
+0.45           !CFL
+0.9          !beta
+3           !amp
+200           !outputfile
+Euler            !FT
+Euler            !BT
+GLF         !Forward flux function
+GLF         !Adjoint flux function
+True           !Adjoint flag
+True          !Adjoint Viscosity flag
+True         !Forward Viscosity flag
+3            !Initial condition
+FV            !Spatial integration method
+False          !Diagonalization flag
+False           !Accuracy flag

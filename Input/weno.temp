@@ -1,0 +1,18 @@
+XXN             !Nx
+XXL             !L
+XXT             !Tend
+XXCFL           !CFL
+XXBETA          !beta
+XXAMP           !amp
+XXOUT           !outputfile
+XXFT            !FT
+XXBT            !BT
+XXFFLUX         !Forward flux function
+XXAFLUX         !Adjoint flux function
+XXADJ           !Adjoint flag
+XXVISC          !Adjoint Viscosity flag
+XXFVISC         !Forward Viscosity flag
+XXIC            !Initial condition
+XXSI            !Spatial integration method
+XXDIAG          !Diagonalization flag
+XXACC           !Accuracy flag
