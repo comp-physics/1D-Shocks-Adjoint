@@ -1,8 +1,12 @@
 *.o
-O*
+O_*
 O/*
 D/*
 *.mod
 Saved
 out/*
 *bak*
+
+!out/.gitkeep
+!O/.gitkeep
+!D/.gitkeep
